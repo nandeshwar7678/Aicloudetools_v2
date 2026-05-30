@@ -1,0 +1,7 @@
+# AICloude Tools — robots.txt
+# Yeh file root folder mein rakh do (index.html ke saath)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aicloudetools.com/sitemap.xml
